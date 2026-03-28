@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Spacewar RKSU/KowSU SUSFS 2.0.0 + Backports
+kernel.string=Spacewar KSUN SUSFS 2.1.0 + 69 Backports
 do.devicecheck=0
 do.modules=0
 do.systemless=1
